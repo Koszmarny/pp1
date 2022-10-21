@@ -1,0 +1,6 @@
+print(2+-3)
+print(2**8)
+print(True != False)
+print(2 <= 3 or False)
+print(not True or not False and not True )
+print(2 < 3 and 4 < 5 or not 6 < 7 )
