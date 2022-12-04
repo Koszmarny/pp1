@@ -4,7 +4,7 @@ def star(n):
     for i in range(0,n):
         print("*",end="")
 
-for i in array:
-    print( star(i))
+for i in range(0,len(array)):
+    print(star(array[i]))
     
 star(10)
