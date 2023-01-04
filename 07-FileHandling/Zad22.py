@@ -8,4 +8,5 @@ with open("students.txt") as csv_file:
             print(", ".join(row))
             line+=1
         elif int(row[2])<30:
-            print(", ".join(row))
+           # print(", ".join(row))
+            print(f"{row[0]} {row[1]} {row[4]}")
