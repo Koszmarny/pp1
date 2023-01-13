@@ -1,0 +1,14 @@
+{
+    "name":"Felice",
+    "age":18,
+    "nationality":"Spanish",
+    "favorite subject":"art",
+    "passed":true,
+    "average grade":4.02,
+    "friends":[
+        "Bailey",
+        "Matt",
+        "Sophie",
+        "Delilah"
+    ]
+}
