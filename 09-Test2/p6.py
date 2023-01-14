@@ -1,7 +1,7 @@
 import json
 
 def f(age,course,average):
-    with open("data.json","r") as file:
+    with open("09-Test2\data.json","r") as file:
         data=json.load(file)
         ilosc=0
         for student in data:
